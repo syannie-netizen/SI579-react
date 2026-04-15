@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>Name: Yue Song</p>
-          <p>uniqname: Yue Song</p>
+          <p>uniqname: syannie</p>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
