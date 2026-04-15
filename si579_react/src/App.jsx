@@ -28,7 +28,9 @@ function App() {
           onClick={() => setCount((count) => count + 1)}
         >
           Count is {count}
+          
         </button>
+        Count times 3 is {count * 3}
       </section>
 
 
